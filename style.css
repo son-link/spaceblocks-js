@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'PixelOperator8';
+	src: url('assets/PixelOperator8.ttf');
+}
+
+body {
+	font-family: 'PixelOperator8';
+	font-smooth: never;
+}
+
+h3 {
+	font-weight: normal;
+}
+
+#game {
+	background-color: #e0f8cf;
+}
